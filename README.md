@@ -1,7 +1,10 @@
-# Weavely 🌿
+# ReWear - Community Clothing Exchange 🌿
 
-*A sustainable clothing exchange platform*
+## 🎯 Problem Statement
 
+---
+# ReWear – Community Clothing Exchange
+---
 ## 🧵 Overview
 
 **Weavely** is a web-based platform designed to promote sustainable fashion by enabling users to exchange unused clothing. Users can either **swap directly** with others or use a **point-based redemption system** to claim listed items. The platform aims to reduce textile waste and encourage the reuse of wearable garments instead of discarding them.
@@ -101,10 +104,15 @@ npm run start
 ```
 
 ---
+## 👥 Team Members
 
-## 👥 Contributors
-* [Vandan Patel](https://github.com/patelvandan11)
-* [Yashrajsinh Parmar](https://github.com/Fusion567)
+* **Vandan Patel**
+  * GitHub: [@patelvandan11](https://github.com/patelvandan11)
+  * Email: vandan11patel@gmail.com
+
+* **Yashrajsinh Parmar**
+  * GitHub: [@Fusion567](https://github.com/Fusion567)
+  * Email: yashraj76801@gmail.com
 
 ---
 
