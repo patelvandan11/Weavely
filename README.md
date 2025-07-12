@@ -103,9 +103,8 @@ npm run start
 ---
 
 ## 👥 Contributors
-
-Vandan Patel
-Yashrajsinh Parmar 
+* [Vandan Patel](https://github.com/patelvandan11)
+* [Yashrajsinh Parmar](https://github.com/Fusion567)
 
 ---
 
